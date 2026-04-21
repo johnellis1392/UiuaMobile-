@@ -1,0 +1,6 @@
+{
+  "name": "Uiua Palette",
+  "description": "An ergonomic, mobile-first Uiua editor and function palette with real-time feedback and AI-powered evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Evaluation"]
+}
